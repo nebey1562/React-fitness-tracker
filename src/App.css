@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: rgb(236, 223, 204);
+}
+
+.workouts-page {
+  background-color: rgb(236, 223, 204);
+  padding: 20px;
+  min-height: 100vh;
+}

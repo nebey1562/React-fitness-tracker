@@ -1,0 +1,226 @@
+{
+  "exercises": {
+    "chest": [
+      {
+        "id": 1,
+        "name": "Bench Press"
+      },
+      {
+        "id": 2,
+        "name": "Push-Up"
+      },
+      {
+        "id": 3,
+        "name": "Chest Fly"
+      },
+      {
+        "id": 4,
+        "name": "Dumbbell Press"
+      },
+      {
+        "id": 5,
+        "name": "Incline Press"
+      },
+      {
+        "id": 6,
+        "name": "Decline Press"
+      }
+    ],
+    "biceps": [
+      {
+        "id": 7,
+        "name": "Bicep Curl"
+      },
+      {
+        "id": 8,
+        "name": "Hammer Curl"
+      },
+      {
+        "id": 9,
+        "name": "Preacher Curl"
+      },
+      {
+        "id": 10,
+        "name": "Concentration Curl"
+      },
+      {
+        "id": 11,
+        "name": "Dumbbell Curl"
+      }
+    ],
+    "triceps": [
+      {
+        "id": 12,
+        "name": "Tricep Dips"
+      },
+      {
+        "id": 13,
+        "name": "Skull Crushers"
+      },
+      {
+        "id": 14,
+        "name": "Overhead Dumbbell Extension"
+      },
+      {
+        "id": 15,
+        "name": "Close-Grip Bench Press"
+      },
+      {
+        "id": 16,
+        "name": "Tricep Kickback"
+      }
+    ],
+    "forearm": [
+      {
+        "id": 17,
+        "name": "Wrist Curl"
+      },
+      {
+        "id": 18,
+        "name": "Wrist Extension"
+      },
+      {
+        "id": 19,
+        "name": "Forearm Curl"
+      },
+      {
+        "id": 20,
+        "name": "Forearm Extension"
+      }
+    ],
+    "delts": [
+      {
+        "id": 21,
+        "name": "Shoulder Press"
+      },
+      {
+        "id": 22,
+        "name": "Lateral Raise"
+      },
+      {
+        "id": 23,
+        "name": "Front Raise"
+      },
+      {
+        "id": 24,
+        "name": "Rear Delt Fly"
+      },
+      {
+        "id": 25,
+        "name": "Arnold Press"
+      }
+    ],
+    "quads": [
+      {
+        "id": 26,
+        "name": "Squats"
+      },
+      {
+        "id": 27,
+        "name": "Leg Press"
+      },
+      {
+        "id": 28,
+        "name": "Lunges"
+      },
+      {
+        "id": 29,
+        "name": "Leg Extensions"
+      },
+      {
+        "id": 30,
+        "name": "Leg Curls"
+      }
+    ],
+    "calves": [
+      {
+        "id": 31,
+        "name": "Calf Raises"
+      },
+      {
+        "id": 32,
+        "name": "Seated Calf Raise"
+      },
+      {
+        "id": 33,
+        "name": "Standing Calf Raise"
+      },
+      {
+        "id": 34,
+        "name": "Calf Press"
+      }
+    ],
+    "abs": [
+      {
+        "id": 35,
+        "name": "Crunches"
+      },
+      {
+        "id": 36,
+        "name": "Plank"
+      },
+      {
+        "id": 37,
+        "name": "Russian Twists"
+      },
+      {
+        "id": 38,
+        "name": "Leg Raises"
+      },
+      {
+        "id": 39,
+        "name": "Bicycle Crunches"
+      }
+    ]
+  },
+  "workouts": [
+    {
+      "id": "4ad5",
+      "exercise": "Tricep Dips",
+      "weight": "12",
+      "reps": "5"
+    },
+    {
+      "id": "99ba",
+      "exercise": "Bench Press",
+      "weight": "20",
+      "reps": "3"
+    },
+    {
+      "id": "1ec6",
+      "exercise": "Skull Crushers",
+      "weight": "78",
+      "reps": "8"
+    },
+    {
+      "id": "5f0b",
+      "exercise": "Bicep Curl",
+      "weight": "13",
+      "reps": "7"
+    },
+    {
+      "id": "766c",
+      "exercise": "Bicep Curl",
+      "weight": "20",
+      "reps": "15"
+    },
+    {
+      "id": "5ad5",
+      "exercise": "Skull Crushers",
+      "weight": "10",
+      "reps": "12"
+    },
+    {
+      "id": "1861",
+      "exercise": "Close-Grip Bench Press",
+      "weight": "10",
+      "reps": "5"
+    },
+    {
+      "id": "c184",
+      "exercise": "Hammer Curl",
+      "weight": "10",
+      "reps": "3"
+    }
+  ]
+}
